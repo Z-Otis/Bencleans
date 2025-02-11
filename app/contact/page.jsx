@@ -28,7 +28,7 @@ const page = () => {
                 <p className='text-lg'>For more information, contact us</p>
                 <p className='text-lg'>Phone No: 08165124859</p>
                 <p className='text-lg'>Email: benjaminchukwukaelo@gmail.com</p>
-                <p className='text-lg'>Address: Moses street, Ikeja, Lagos State</p>
+                <p className='text-lg'>Address: Moses street, off Okeafa, Ikeja, Lagos State</p>
                 <div className='flex gap-4'>
                     <p className='text-lg'>Our Social Media:</p>
                     <div className='flex gap-3'>

@@ -9,12 +9,12 @@ const page = () => {
           </div>
           
           <h4 className='text-3xl my-12 font-bold text-black/85 text-center'>
-            Glass Window Cleaning
+            Window Cleaning
           </h4>
       
           <div className='relative min-h-[50vh] bg-black/85 '>
               <Image
-              src='/solar-img1.jpeg'
+              src='/hero3.jpg'
               height={300}
               width={600}
               alt='car1'
@@ -24,19 +24,19 @@ const page = () => {
       </div>
 
       <div className='flex flex-col md:flex-row space-x-4 md:gap-12 mt-6'>
-            <div>
-              <div className='relative h-96 w-80 border-4 border-black/65 mx-12'>
-             
-                  <Image
-                  src='/hero1.jpg'
-                  alt='car1'
-      
-                  width={500}
-                  height={300}
-                  className='rounded-lg object-cover h-96 w-80 absolute z-20 right-[-60px] bottom-[-48px]  '
-                  />
-              </div>
-            </div>
+             <div className='flex justify-center items-center'>
+                    <div className='relative h-96 w-80 border-2 rounded-md border-black/45'>
+                   
+                        <Image
+                        src='/about1.jpeg'
+                        alt='car1'
+            
+                        width={500}
+                        height={300}
+                        className='rounded-lg object-cover h-96 w-80 absolute z-20 right-[-15px] bottom-[-20px]  '
+                        />
+                    </div>
+                  </div>
              
               <div className='flex flex-col min-h-[80vh] p-12 justify-center items-center '>
                   <div className=' space-y-3 md:space-y-8 flex flex-col justify-center items-center '>

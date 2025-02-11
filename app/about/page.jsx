@@ -42,8 +42,8 @@ const page = () => {
        
     </div>
     <div className='flex flex-col md:flex-row space-x-4 md:gap-12 mt-6'>
-      <div>
-        <div className='relative h-96 w-80 border-4 border-indigo-50 mx-12'>
+      <div className='flex justify-center items-center'>
+        <div className='relative h-96 w-80 border-2 border-black/85 mx-12 rounded-md'>
        
             <Image
             src='/hero3.jpg'
@@ -51,7 +51,7 @@ const page = () => {
 
             width={500}
             height={300}
-            className='rounded-lg object-cover h-96 w-80 absolute z-20 right-[-60px] bottom-[-48px]  '
+            className='rounded-lg object-cover h-96 w-80 absolute z-20 right-[-15px] bottom-[-20px]  '
             />
         </div>
       </div>

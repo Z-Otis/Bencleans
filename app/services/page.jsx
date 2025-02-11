@@ -18,7 +18,7 @@ const page = () => {
       height={300}
       width={200}
       alt='service-img'
-      className='h-80 md:h-[420px] md:w-96 w-96 object-cover' />
+      className='h-80 md:h-[420px] md:w-96 w-60 object-cover' />
 
       <h4 className='text-white mt-8  font-bold text-center'>
        Window Cleaning
@@ -31,7 +31,7 @@ const page = () => {
       height={400}
       width={300}
       alt='service-img'
-      className='h-80 md:h-[420px] md:w-96 w-96' />
+      className='h-80 md:h-[420px] md:w-96 w-60' />
 
       <h4 className='text-white mt-8  font-bold text-center'>
        Solar Panel Cleaning
